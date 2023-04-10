@@ -1,2 +1,2 @@
 # SoftlaGame
-JavaScript ,html &amp; CSS 
+JavaScript ,html & CSS 
